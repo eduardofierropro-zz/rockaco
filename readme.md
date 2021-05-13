@@ -9,17 +9,6 @@ Este ejemplo ha sido programado en 6 horas mientras charlábamos y comentábamos
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 
-## Construido con 🛠️
-* [HTML5]
-* [CSS]
-* [SASS]
-* [VanillaJS]
-
-
-## Desarrollado con 🛠️
-
-* [Visual Studio Code]
-
 ## Autor ✒️
 **Eduardo Fierro** - *Documentación y trabajo inicial*
 * [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
